@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="290dp"
+        android:layout_height="270dp"
+        android:id="@+id/poster"
+        android:paddingLeft="0dp"
+        android:paddingRight="00dp"
+        android:paddingTop="00dp"
+        android:paddingEnd="00dp"
+        android:layout_margin="00dp"
+            android:paddingBottom="0dp"
+        android:layout_gravity="center"
+        android:paddingStart="00dp"/>
+
+</FrameLayout>

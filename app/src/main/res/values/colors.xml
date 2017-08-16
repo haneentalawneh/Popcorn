@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="TitleBackground">#009688</color>
+    <color name="TitleColor">#FFFF</color>
+    <color name="rateTextColor">#000</color>
+
+</resources>
